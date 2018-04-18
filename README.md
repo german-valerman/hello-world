@@ -1,2 +1,5 @@
 # hello-world
-It's my first repository
+
+Hi, Shanghai. 
+I'm a good guy.
+You're a shite pile.
