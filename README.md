@@ -1,2 +1,3 @@
 # hello-world
-It's my first repository
+
+Hi, Shanghai. You're a shite pile. 
